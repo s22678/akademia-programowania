@@ -1,0 +1,52 @@
+Who's Hiring? - March 2023
+https://www.reddit.com/r/golang/comments/11fijrn/whos_hiring_march_2023/
+Warrant - Open source application authorization and access control service
+http://github.com/warrant-dev/warrant
+Benthos Code Review - Checkpointer (Go, Generics, sync.Cond)
+https://www.youtube.com/watch?v=zd_dtrhjIQ0
+Any golang discussion/networking events happening in SF Bay Area?
+https://www.reddit.com/r/golang/comments/1251k3k/any_golang_discussionnetworking_events_happening/
+Go linters configuration, the right version.
+https://olegk.dev/go-linters-configuration-the-right-version
+What is the preferred way to represent and check for an empty struct?
+https://www.reddit.com/r/golang/comments/124hjhl/what_is_the_preferred_way_to_represent_and_check/
+Handling two contexts
+https://www.reddit.com/r/golang/comments/124qrin/handling_two_contexts/
+gomobile not working properly
+https://www.reddit.com/r/golang/comments/1255ror/gomobile_not_working_properly/
+Redirect media resources through http.ReponseWriter
+https://www.reddit.com/r/golang/comments/124vet1/redirect_media_resources_through_httpreponsewriter/
+Text similarity analysis
+https://www.reddit.com/r/golang/comments/124kk5n/text_similarity_analysis/
+Go Validation Playground
+https://www.reddit.com/r/golang/comments/1243qut/go_validation_playground/
+Logy is a fast, configurable, and easy-to-use logger library for Go applications
+https://www.reddit.com/r/golang/comments/12529au/logy_is_a_fast_configurable_and_easytouse_logger/
+"Integration" testing
+https://www.reddit.com/r/golang/comments/124v7zw/integration_testing/
+Sorting of slice of custom type yields unexpected results
+https://www.reddit.com/r/golang/comments/124tvwo/sorting_of_slice_of_custom_type_yields_unexpected/
+Mapping json fields in api calls to a struct to store them in a database or cache
+https://www.reddit.com/r/golang/comments/124sr30/mapping_json_fields_in_api_calls_to_a_struct_to/
+npu: Simple GO client for The Null Pointer file-sharing service
+https://github.com/overflowy/null-pointer-uploader
+tint: 🌈 slog.Handler that writes tinted logs
+https://github.com/lmittmann/tint
+How do you gomock test a method that is importing another package in the closure function?
+https://www.reddit.com/r/golang/comments/124hybd/how_do_you_gomock_test_a_method_that_is_importing/
+Why Golang beats other runtimes like V8 engine(Node JS) even when V8 is also compiled. Initially it would be slow but after that it should be fast enough.
+https://www.reddit.com/r/golang/comments/123t4sq/why_golang_beats_other_runtimes_like_v8/
+github.com/colega/zeropool: zero-allocation type-safe sync.Pool alternative
+https://github.com/colega/zeropool
+How can I have error like `make()` if I pass more than two args
+https://www.reddit.com/r/golang/comments/124k8zx/how_can_i_have_error_like_make_if_i_pass_more/
+End to end example API written in Go
+https://www.reddit.com/r/golang/comments/123ke83/end_to_end_example_api_written_in_go/
+Go GUI vs. Browser
+https://www.reddit.com/r/golang/comments/123fkup/go_gui_vs_browser/
+beginning in GO
+https://www.reddit.com/r/golang/comments/1248ibu/beginning_in_go/
+Any benefit to learning Python over Go for working with data?
+https://www.reddit.com/r/golang/comments/124gvjv/any_benefit_to_learning_python_over_go_for/
+RDF Libary in Golang
+https://www.reddit.com/r/golang/comments/123xk6m/rdf_libary_in_golang/
