@@ -56,6 +56,8 @@ func (r *Response) Fetch(ctx context.Context) error {
 		log.Fatal(jsonErr)
 	}
 
+	log.Println("Fetched", url, "data decoded")
+
 	return nil
 }
 
@@ -71,5 +73,6 @@ func (r *Response) Save(w io.Writer) error {
 		log.Fatalln("Error writing data")
 		return err
 	}
+	log.Println("Fetched data saved")
 	return nil
 }

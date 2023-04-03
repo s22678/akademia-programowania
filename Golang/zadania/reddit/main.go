@@ -28,7 +28,7 @@ func main() {
 	var w io.Writer             // do not change
 
 	f = &fetcher.Response{}
-	w, err = os.Create("my_output")
+	w, err = os.Create("output/my_output")
 	if err != nil {
 		log.Fatalln("Failed to create my_output file")
 	}
@@ -36,9 +36,19 @@ func main() {
 
 	ctx := context.Background()
 
-	f.Fetch(ctx)
-	f.Save(w)
+	err := f.Fetch(ctx)
+	if err != nil {
+		log.Fatal("Fetching data unsuccessful")
+	}
+
+	err = f.Save(w)
+	if err != nil {
+		log.Fatal("Saving data to file unsuccessful")
+	}
 
 	w = os.Stdout
-	f.Save(w)
+	err = f.Save(w)
+	if err != nil {
+		log.Fatal("Saving data to stdout unsuccessful")
+	}
 }

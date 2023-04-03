@@ -1,52 +1,52 @@
 Who's Hiring? - March 2023
 https://www.reddit.com/r/golang/comments/11fijrn/whos_hiring_march_2023/
+ResultGroup: Go lib for concurrent tasks &amp; errors management
+https://www.reddit.com/r/golang/comments/129smfi/resultgroup_go_lib_for_concurrent_tasks_errors/
+Go SMB Server?
+https://www.reddit.com/r/golang/comments/129hizd/go_smb_server/
+Why methods types are different
+https://go.dev/play/p/4mR3HtkfK-T
+In-memory key value store
+https://www.reddit.com/r/golang/comments/129n6oh/inmemory_key_value_store/
+Web scraping with Go
+https://www.reddit.com/r/golang/comments/129n1g4/web_scraping_with_go/
+Manipulating internet and wireless connections with different protocols
+https://www.reddit.com/r/golang/comments/129csya/manipulating_internet_and_wireless_connections/
+Queue management service modeling
+https://www.reddit.com/r/golang/comments/129qxv0/queue_management_service_modeling/
+Gin Error Handling
+https://www.reddit.com/r/golang/comments/12a0vo9/gin_error_handling/
+Ebiten vs pixel (Golang)
+https://www.reddit.com/r/golang/comments/129sagu/ebiten_vs_pixel_golang/
 The Smallest Go Binary (5KB)
 https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb
-How and where to start building web api backend?
-https://www.reddit.com/r/golang/comments/128vfrn/how_and_where_to_start_building_web_api_backend/
-GoLang Goes Retro: Compiler Now Supports Morse Code | TechCrunch
-https://tsrn.ch/tAa6Gfj
-GitHub - agis/spawn: Spawn your Go binary from its TestMain, for end-to-end tests
-https://github.com/agis/spawn
-Why is it invalid to take the address of a string's byte?
-https://www.reddit.com/r/golang/comments/128j3vk/why_is_it_invalid_to_take_the_address_of_a/
+Handler vs Controller
+https://www.reddit.com/r/golang/comments/1294p5g/handler_vs_controller/
+Looking for suggestions on the code architectures and patterns
+https://www.reddit.com/r/golang/comments/1298ibg/looking_for_suggestions_on_the_code_architectures/
 New language suggestion to old time Gopher
 https://www.reddit.com/r/golang/comments/128ymjz/new_language_suggestion_to_old_time_gopher/
-Code review first go project
-https://www.reddit.com/r/golang/comments/128k7ov/code_review_first_go_project/
-LYRA
-https://www.reddit.com/r/golang/comments/129192y/lyra/
-Remote origin already exists error on go build
-https://www.reddit.com/r/golang/comments/12915f7/remote_origin_already_exists_error_on_go_build/
-Am I being pedantic about these things?
-https://www.reddit.com/r/golang/comments/1286wki/am_i_being_pedantic_about_these_things/
-How to embed an interface into a struct?
-https://www.reddit.com/r/golang/comments/128z7lx/how_to_embed_an_interface_into_a_struct/
-Can you review my project ?
-https://www.reddit.com/r/golang/comments/128p25n/can_you_review_my_project/
-getting your repo's date and commit hash to use as version
-https://www.reddit.com/r/golang/comments/128xdr8/getting_your_repos_date_and_commit_hash_to_use_as/
+How and where to start building web api backend?
+https://www.reddit.com/r/golang/comments/128vfrn/how_and_where_to_start_building_web_api_backend/
+vanceai-go - golang SDK for VanceAI image processing API
+https://www.reddit.com/r/golang/comments/129gc52/vanceaigo_golang_sdk_for_vanceai_image_processing/
+Go famous/standard frameworks and libraries ?
+https://www.reddit.com/r/golang/comments/129rn09/go_famousstandard_frameworks_and_libraries/
+GitHub - agis/spawn: Spawn your Go binary from its TestMain, for end-to-end tests
+https://github.com/agis/spawn
+GoLang Goes Retro: Compiler Now Supports Morse Code | TechCrunch
+https://tsrn.ch/tAa6Gfj
+Why is it invalid to take the address of a string's byte?
+https://www.reddit.com/r/golang/comments/128j3vk/why_is_it_invalid_to_take_the_address_of_a/
 Help structure project
 https://www.reddit.com/r/golang/comments/128udx0/help_structure_project/
-Looking for a gRPC tutorial
-https://www.reddit.com/r/golang/comments/128r68b/looking_for_a_grpc_tutorial/
-Preventing breaking changes to your database with Atlas
-https://atlasgo.io/blog/2023/03/31/preventing-breaking-changes
-Gocrest v1.1.0 released
-https://www.reddit.com/r/golang/comments/128n246/gocrest_v110_released/
-I made a SQL to array/map/struct and CRUD ORM library
-https://github.com/elgs/gosqlcrud
-With the Hexagonal Architecture / Ports &amp; Adapters pattern, how do you prevent callers of your driving interfaces from calling your driven interfaces directly instead?
-https://www.reddit.com/r/golang/comments/128sr5q/with_the_hexagonal_architecture_ports_adapters/
-strconv.Atoi is causing my test to fail and I can't figure out why
-https://www.reddit.com/r/golang/comments/128jg5t/strconvatoi_is_causing_my_test_to_fail_and_i_cant/
-Reading and writting to/from struct concurrently. Problem?
-https://www.reddit.com/r/golang/comments/128ize0/reading_and_writting_tofrom_struct_concurrently/
-Do we have any vscode plugin to convert json to struct in Go?
-https://www.reddit.com/r/golang/comments/127t7yp/do_we_have_any_vscode_plugin_to_convert_json_to/
-What are some best resources to learn Golang Production Deployment?
-https://www.reddit.com/r/golang/comments/127i12y/what_are_some_best_resources_to_learn_golang/
-Text articles vs Video tutorials
-https://www.reddit.com/r/golang/comments/127ioyg/text_articles_vs_video_tutorials/
-Any example of project with gofiber using both CSRF protection and JWT ?
-https://www.reddit.com/r/golang/comments/127tdvy/any_example_of_project_with_gofiber_using_both/
+LYRA
+https://www.reddit.com/r/golang/comments/129192y/lyra/
+getting your repo's date and commit hash to use as version
+https://www.reddit.com/r/golang/comments/128xdr8/getting_your_repos_date_and_commit_hash_to_use_as/
+Am I being pedantic about these things?
+https://www.reddit.com/r/golang/comments/1286wki/am_i_being_pedantic_about_these_things/
+Code review first go project
+https://www.reddit.com/r/golang/comments/128k7ov/code_review_first_go_project/
+Remote origin already exists error on go build
+https://www.reddit.com/r/golang/comments/12915f7/remote_origin_already_exists_error_on_go_build/

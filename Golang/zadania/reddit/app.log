@@ -1,0 +1,5 @@
+2023/04/03 02:51:07 Initialzing reddit fetcher app
+2023/04/03 02:51:08 Connected to: https://www.reddit.com/r/golang.json status: 200 OK
+2023/04/03 02:51:08 Fetched https://www.reddit.com/r/golang.json data decoded
+2023/04/03 02:51:08 Fetched data saved
+2023/04/03 02:51:08 Fetched data saved
