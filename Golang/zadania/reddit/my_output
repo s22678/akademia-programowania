@@ -1,52 +1,52 @@
 Who's Hiring? - March 2023
 https://www.reddit.com/r/golang/comments/11fijrn/whos_hiring_march_2023/
-Warrant - Open source application authorization and access control service
-http://github.com/warrant-dev/warrant
-Benthos Code Review - Checkpointer (Go, Generics, sync.Cond)
-https://www.youtube.com/watch?v=zd_dtrhjIQ0
-Any golang discussion/networking events happening in SF Bay Area?
-https://www.reddit.com/r/golang/comments/1251k3k/any_golang_discussionnetworking_events_happening/
-Go linters configuration, the right version.
-https://olegk.dev/go-linters-configuration-the-right-version
-What is the preferred way to represent and check for an empty struct?
-https://www.reddit.com/r/golang/comments/124hjhl/what_is_the_preferred_way_to_represent_and_check/
-Handling two contexts
-https://www.reddit.com/r/golang/comments/124qrin/handling_two_contexts/
-gomobile not working properly
-https://www.reddit.com/r/golang/comments/1255ror/gomobile_not_working_properly/
-Redirect media resources through http.ReponseWriter
-https://www.reddit.com/r/golang/comments/124vet1/redirect_media_resources_through_httpreponsewriter/
-Text similarity analysis
-https://www.reddit.com/r/golang/comments/124kk5n/text_similarity_analysis/
-Go Validation Playground
-https://www.reddit.com/r/golang/comments/1243qut/go_validation_playground/
-Logy is a fast, configurable, and easy-to-use logger library for Go applications
-https://www.reddit.com/r/golang/comments/12529au/logy_is_a_fast_configurable_and_easytouse_logger/
-"Integration" testing
-https://www.reddit.com/r/golang/comments/124v7zw/integration_testing/
-Sorting of slice of custom type yields unexpected results
-https://www.reddit.com/r/golang/comments/124tvwo/sorting_of_slice_of_custom_type_yields_unexpected/
-Mapping json fields in api calls to a struct to store them in a database or cache
-https://www.reddit.com/r/golang/comments/124sr30/mapping_json_fields_in_api_calls_to_a_struct_to/
-npu: Simple GO client for The Null Pointer file-sharing service
-https://github.com/overflowy/null-pointer-uploader
-tint: 🌈 slog.Handler that writes tinted logs
-https://github.com/lmittmann/tint
-How do you gomock test a method that is importing another package in the closure function?
-https://www.reddit.com/r/golang/comments/124hybd/how_do_you_gomock_test_a_method_that_is_importing/
-Why Golang beats other runtimes like V8 engine(Node JS) even when V8 is also compiled. Initially it would be slow but after that it should be fast enough.
-https://www.reddit.com/r/golang/comments/123t4sq/why_golang_beats_other_runtimes_like_v8/
-github.com/colega/zeropool: zero-allocation type-safe sync.Pool alternative
-https://github.com/colega/zeropool
-How can I have error like `make()` if I pass more than two args
-https://www.reddit.com/r/golang/comments/124k8zx/how_can_i_have_error_like_make_if_i_pass_more/
-End to end example API written in Go
-https://www.reddit.com/r/golang/comments/123ke83/end_to_end_example_api_written_in_go/
-Go GUI vs. Browser
-https://www.reddit.com/r/golang/comments/123fkup/go_gui_vs_browser/
-beginning in GO
-https://www.reddit.com/r/golang/comments/1248ibu/beginning_in_go/
-Any benefit to learning Python over Go for working with data?
-https://www.reddit.com/r/golang/comments/124gvjv/any_benefit_to_learning_python_over_go_for/
-RDF Libary in Golang
-https://www.reddit.com/r/golang/comments/123xk6m/rdf_libary_in_golang/
+ResultGroup: Go lib for concurrent tasks &amp; errors management
+https://www.reddit.com/r/golang/comments/129smfi/resultgroup_go_lib_for_concurrent_tasks_errors/
+Go SMB Server?
+https://www.reddit.com/r/golang/comments/129hizd/go_smb_server/
+Why methods types are different
+https://go.dev/play/p/4mR3HtkfK-T
+In-memory key value store
+https://www.reddit.com/r/golang/comments/129n6oh/inmemory_key_value_store/
+Web scraping with Go
+https://www.reddit.com/r/golang/comments/129n1g4/web_scraping_with_go/
+Manipulating internet and wireless connections with different protocols
+https://www.reddit.com/r/golang/comments/129csya/manipulating_internet_and_wireless_connections/
+Ebiten vs pixel (Golang)
+https://www.reddit.com/r/golang/comments/129sagu/ebiten_vs_pixel_golang/
+Queue management service modeling
+https://www.reddit.com/r/golang/comments/129qxv0/queue_management_service_modeling/
+Gin Error Handling
+https://www.reddit.com/r/golang/comments/12a0vo9/gin_error_handling/
+The Smallest Go Binary (5KB)
+https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb
+Handler vs Controller
+https://www.reddit.com/r/golang/comments/1294p5g/handler_vs_controller/
+Looking for suggestions on the code architectures and patterns
+https://www.reddit.com/r/golang/comments/1298ibg/looking_for_suggestions_on_the_code_architectures/
+New language suggestion to old time Gopher
+https://www.reddit.com/r/golang/comments/128ymjz/new_language_suggestion_to_old_time_gopher/
+How and where to start building web api backend?
+https://www.reddit.com/r/golang/comments/128vfrn/how_and_where_to_start_building_web_api_backend/
+vanceai-go - golang SDK for VanceAI image processing API
+https://www.reddit.com/r/golang/comments/129gc52/vanceaigo_golang_sdk_for_vanceai_image_processing/
+Go famous/standard frameworks and libraries ?
+https://www.reddit.com/r/golang/comments/129rn09/go_famousstandard_frameworks_and_libraries/
+GitHub - agis/spawn: Spawn your Go binary from its TestMain, for end-to-end tests
+https://github.com/agis/spawn
+GoLang Goes Retro: Compiler Now Supports Morse Code | TechCrunch
+https://tsrn.ch/tAa6Gfj
+Why is it invalid to take the address of a string's byte?
+https://www.reddit.com/r/golang/comments/128j3vk/why_is_it_invalid_to_take_the_address_of_a/
+Help structure project
+https://www.reddit.com/r/golang/comments/128udx0/help_structure_project/
+LYRA
+https://www.reddit.com/r/golang/comments/129192y/lyra/
+getting your repo's date and commit hash to use as version
+https://www.reddit.com/r/golang/comments/128xdr8/getting_your_repos_date_and_commit_hash_to_use_as/
+Am I being pedantic about these things?
+https://www.reddit.com/r/golang/comments/1286wki/am_i_being_pedantic_about_these_things/
+Code review first go project
+https://www.reddit.com/r/golang/comments/128k7ov/code_review_first_go_project/
+Remote origin already exists error on go build
+https://www.reddit.com/r/golang/comments/12915f7/remote_origin_already_exists_error_on_go_build/

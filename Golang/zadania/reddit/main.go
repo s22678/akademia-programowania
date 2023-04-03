@@ -1,6 +1,7 @@
 package main
 
 import (
+	"context"
 	"io"
 	"log"
 	"os"
@@ -31,10 +32,11 @@ func main() {
 	if err != nil {
 		log.Fatalln("Failed to create my_output file")
 	}
-
 	defer file.Close()
 
-	f.Fetch()
+	ctx := context.Background()
+
+	f.Fetch(ctx)
 	f.Save(w)
 
 	w = os.Stdout
